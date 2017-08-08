@@ -1,7 +1,7 @@
 package algoritmos;
 
 
-	public class Mergesort{
+	public class MergeSort{
 
 		public void sort(double[] array, int indiceInicio, int indiceFim) {
 

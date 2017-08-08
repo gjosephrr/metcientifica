@@ -5,7 +5,7 @@ package algoritmos;
  */
 public class BubbleSort {
 
-    public BubbleSort() {
+ public BubbleSort() {
     }
 
     public void bubbleSort(double[] vetor) {
@@ -23,4 +23,6 @@ public class BubbleSort {
             }
         }
     }
+    
+   
 }
